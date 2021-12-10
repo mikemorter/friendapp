@@ -18,7 +18,7 @@ If you are signed in you will see your list of friends:
 
 If you are not signed in you will see:
 
-![Not Signed In](./app/assets/images/Not-Signed-in.png)
+![Not Signed In](./app/assets/images/Not-Signed-In.png)
 
 ## Login Page
 
