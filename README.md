@@ -1,31 +1,15 @@
 # Friend App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Overview
+
+This is my first project with Ruby on Rails. With this app you are able to create a profile and add friends information in a structured list. You are able to add, edit, and delete any friends you want. Have fun!
 
 ## Technologies Used
 
-- Ruby
-- Rails
+- Ruby on Rails
 - HTML
 - Bootstrap
 
-- Ruby version
-
-- System dependencies
-
-- Configuration
-
-- Database creation
-
-- Database initialization
-
-- How to run the test suite
-
-- Services (job queues, cache servers, search engines, etc.)
-
-- Deployment instructions
-
-- ...
+## Deployed Application
 
 # friendapp
